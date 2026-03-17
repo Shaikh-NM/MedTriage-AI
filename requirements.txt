@@ -1,0 +1,13 @@
+pyautogen>=0.2.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+chromadb>=0.4.0
+streamlit>=1.30.0
+langsmith>=0.1.0
+pydantic>=2.0.0
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
